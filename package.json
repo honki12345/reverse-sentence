@@ -1,6 +1,6 @@
 {
   "name": "reverse-sentence",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Reverses a sentence.",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "honki12345",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/honki12345/reverse-sentence.git"
+  },
+  "bugs": {
+    "url": "https://github.com/honki12345/reverse-sentence/issues"
+  },
+  "homepage": "https://github.com/honki12345/reverse-sentence#readme"
 }
